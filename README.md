@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Murali kalyan</h1>
 <h3 align="center">Enthusiast to become MERN Stack developer</h3>
 
+- 🌱 I’m currently learning **MERN Stack web development**
+
 - 💬 Ask me about **python, JavaScript, SQL**
 
 - 📫 How to reach me **msquarek2288@gmail.com**
